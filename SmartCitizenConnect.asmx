@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="SmartCitizenConnect.asmx.cs" Class="CTSmartCitizenConnect.CTSmartCitizen" %>
